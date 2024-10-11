@@ -5,6 +5,7 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Great achievements start with small steps." << std::endl;
+
     std::cout << R"( 
     
   /$$$$$$  /$$$$$$ /$$      /$$/$$      /$$/$$   /$$/$$   /$$/$$$$$$/$$$$$$$$/$$     /$$ /$$   /$$$$$$  /$$$$$$ 
@@ -20,5 +21,6 @@ int main() {
                                                                                                                 
 
     )" << std::endl;
+
     return 0; 
 }
